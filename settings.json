@@ -1,0 +1,5 @@
+{
+    "target": "",
+    "port": 25575,
+    "password_list": "rockyou.txt"
+}
